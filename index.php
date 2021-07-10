@@ -334,7 +334,7 @@
                 <div class="credits">
 
                     Designed by
-                    <a href="https://rhakbari.github.io/">Raza Hussain Akbari
+                    <a href="https://rhakbari.herokuapp.com/">Raza Hussain Akbari
                     </a>
                 </div>
             </div>
