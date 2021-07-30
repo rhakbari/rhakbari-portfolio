@@ -81,7 +81,7 @@
                         <!--<p class="display-6 color-d">Hello, world!</p>-->
                         <h1 class="intro-title mb-4">I am Raza Hussain Akbari</h1>
                         <p class="intro-subtitle">
-                            <span class="text-slider-items">Data Scientist, Electrical Engineer</span>
+                            <span class="text-slider-items">Data Scientist, Data Analyst, Data Engineer</span>
                             <strong class="text-slider"></strong>
                         </p>
                         <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
