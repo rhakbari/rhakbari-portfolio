@@ -114,7 +114,7 @@
                                                 <p>
                                                     <span class="title-s">Profile:
                                                     </span>
-                                                    <span>Data Scientist / Electrical Engineer</span>
+                                                    <span>Data Scientist / Data Analyst</span>
                                                 </p>
                                                 <p>
                                                     <span class="title-s">Email:
