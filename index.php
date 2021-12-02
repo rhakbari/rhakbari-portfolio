@@ -336,7 +336,7 @@
                     Designed by
                     <a href="https://rhakbari.herokuapp.com/">Raza Hussain Akbari
                     </a>
-                    <p> your ip is </p> $ip=$_SERVER['REMOTE_ADDR'];
+            
                 </div>
             </div>
         </div>
