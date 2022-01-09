@@ -81,7 +81,7 @@
                         <!--<p class="display-6 color-d">Hello, world!</p>-->
                         <h1 class="intro-title mb-4">I am Raza Hussain Akbari</h1>
                         <p class="intro-subtitle">
-                            <span class="text-slider-items">Data Scientist, Data Analyst, Data Engineer</span>
+                            <span class="text-slider-items">Software Engineer, Full Stack Developer</span>
                             <strong class="text-slider"></strong>
                         </p>
                         <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
@@ -114,7 +114,7 @@
                                                 <p>
                                                     <span class="title-s">Profile:
                                                     </span>
-                                                    <span>Data Scientist / Data Analyst</span>
+                                                    <span>Software Engineer</span>
                                                 </p>
                                                 <p>
                                                     <span class="title-s">Email:
@@ -179,9 +179,8 @@
                             </h3>
                             <p class="subtitle-a">
                                 I have hands on experience with Python, 
-                                              SQL, C, C++, Java and Go Lang 
-                                              (Familiar with all OOP concepts)
-                            </p>
+                                              mySQL (Databases), C, C++, Java and Go Lang  
+                                              (Familiar with all OOP concepts) and for Frontend I have experience in using React framework with Typescript. </p>
                             <div class="line-mf"></div>
                         </div>
                     </div>
