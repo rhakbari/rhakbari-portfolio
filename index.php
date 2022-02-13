@@ -297,7 +297,7 @@
                             <ul class="list-ico">
                                 <li>
                                     <span class="ion-ios-location"></span>
-                                   Karachi
+                                   Karachi, Pakistan
                                 </li>
                                 <li>
                                     <a href="tel://+923183339148" target="_blank">
