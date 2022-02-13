@@ -216,7 +216,7 @@
                                 <ul class="list-ico">
                                     <li>
                                         <span class="ion-ios-location"></span>
-                                        2F, 3/2, Block 2, Nazimabad no. 2, Karachi.
+                                        Karachi,Pakistan
                                     </li>
                                     <li>
                                         <a href="tel://+923183339148" target="_blank">
