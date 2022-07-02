@@ -59,7 +59,7 @@
                          </li>
                                     
                         <li class="nav-item">
-                            <a class="nav-link js-scroll" href="https://drive.google.com/file/d/1k60d5ThLqg1OQBdL7Ta7AVZZrtPIOmS4/view?usp=sharing" target="_blank">
+                            <a class="nav-link js-scroll" href="https://drive.google.com/file/d/1KQTP4lNJB_AMx3ykQUPRfY934pSN7ZeT/view?usp=sharing" target="_blank">
                                 CV / Resume</a>
                         </li>
                         <li class="nav-item">
